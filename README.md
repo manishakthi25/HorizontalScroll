@@ -49,5 +49,5 @@ JavaScriptExecutor in Selenium
 Handling scrollable web elements
 
 # Author
-Mani
+Maniyarasi
 Aspiring QA Automation Engineer
